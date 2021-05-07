@@ -619,24 +619,7 @@ public class Add_Lecturer {
 		frame.getContentPane().add(comboBox_5);
 		
 		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		//////////////////////////////
-		//////////////////////////////////////////////////////
-		
-			
+	
 	
 		
 		
@@ -966,12 +949,6 @@ public class Add_Lecturer {
 		lblNewLabel_7.setBounds(545, 221, 88, 20);
 		lblNewLabel_7.setFont(new Font("Times New Roman", Font.BOLD, 14));
 		frame.getContentPane().add(lblNewLabel_7);
-		
-		
-		
-		///////////////////////////////////////////////////////////////
-		
-
 		
 		
 		/////////////////////////
